@@ -1,7 +1,8 @@
 # Advent of Code
-Bad code and even worse coder helping elves since 2022.
-I have no idea why I'm writting js code inside typescript files, but I'm doing it anyway and no one is going to stop me.
-PS. I try to solve problem without much considuration of lines of code, optimization and other stuff. I just want to solve it to help elves!
+Bad code and an even worse coder helping elves since 2022.
+I have no idea why I'm writing js code inside typescript files, but I'm doing it anyway and no one is going to stop me.
+
+PS. I try to solve problems without much consideration of lines of code, optimization and other stuff. I just want to solve it to help the elves!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
