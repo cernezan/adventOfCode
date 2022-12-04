@@ -1,5 +1,7 @@
-# adventOfCode
-Bad code and even worse coder helping elves since 2022
+# Advent of Code
+Bad code and even worse coder helping elves since 2022.
+I have no idea why I'm writting js code inside typescript files, but I'm doing it anyway and no one is going to stop me.
+PS. I try to solve problem without much considuration of lines of code, optimization and other stuff. I just want to solve it to help elves!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
@@ -18,3 +20,5 @@ Bad code and even worse coder helping elves since 2022
   <img src="Media/2022/04.png" width="161px">
 </a>
 <!-- AOC TILES END -->
+
+For the tiles above I'm using [this](https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles) python scritpt to generate it.
