@@ -20,9 +20,7 @@ PS. I try to solve problems without much consideration of lines of code, optimiz
 <a href="2022/04/2022aoc04.ts">
   <img src="Media/2022/04.png" width="161px">
 </a>
-<a href="2022/05/2022aoc05.ts">
-  <img src="Media/2022/05.png" width="161px">
-</a>
+
 <!-- AOC TILES END -->
 
 For the tiles above I'm using [this](https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles) python scritpt to generate it.
