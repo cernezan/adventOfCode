@@ -6,7 +6,7 @@ PS. I try to solve problems without much consideration of lines of code, optimiz
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2022 - 8 ⭐
+  2022 - 12 ⭐
 </h1>
 <a href="2022/01/2022aoc01.ts">
   <img src="Media/2022/01.png" width="161px">
@@ -20,7 +20,12 @@ PS. I try to solve problems without much consideration of lines of code, optimiz
 <a href="2022/04/2022aoc04.ts">
   <img src="Media/2022/04.png" width="161px">
 </a>
-
+<a href="2022/05/2022aoc05.ts">
+  <img src="Media/2022/05.png" width="161px">
+</a>
+<a href="2022/06/2022aoc06.ts">
+  <img src="Media/2022/06.png" width="161px">
+</a>
 <!-- AOC TILES END -->
 
 For the tiles above I'm using [this](https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles) python scritpt to generate it.
