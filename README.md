@@ -28,4 +28,6 @@ PS. I try to solve problems without much consideration of lines of code, optimiz
 </a>
 <!-- AOC TILES END -->
 
+Also tried day 7 and 8, but didn't had enought time to fully solve them. Maybe I'll come back to them later.
+
 For the tiles above I'm using [this](https://github.com/LiquidFun/adventofcode/tree/main/AoCTiles) python scritpt to generate it.
